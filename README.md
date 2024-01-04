@@ -9,6 +9,8 @@ Deft in handling Custom CMS integration, team management, client handling, Azure
 Also, I am Blogger, I like to post articles related to problem-solving and sharing knowledge on various technologies. Below are the URL of my blog and my portfolio<br>
 <strong>Blog: </strong><a href="https://w3reign.com/">w3reign.com</a> 
 
+👨‍💻 All of my projects are available at (https://w3reign.com/themes/vijaydhanvai)
+
 <strong>Skills:</strong> Site Optimisation · Gulp.js · Grunt · PrimeNG · Angular · Microsoft Azure · kentico cms · User Experience (UX) · React.js · AJAX · Kentico · React Native · Git · SASS · JavaScript · Foundation · Photoshop · Bootsrtap · jQuery · Foundation Design · ADA Compliance · accessibility compliance · Responsive Web Design · Web Development
 
 ## 🌐 Socials:
